@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 Estou aprendendo a criar páginas web complexas
 - 🧔🏻 Futuro Front End Hipster
-- 🧘🏻‍♂️ Dislexo e deboista
+- 🧘🏻‍♂️ Disléxico e deboista
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
