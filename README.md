@@ -1,4 +1,4 @@
-### Hey eu sou o Gabriel 🤙🏽
+### <h2 align="center" >Hey eu sou o Gabriel🤙<h2>🏽
 
 
 - 👩🏻‍💻 Estou aprendendo a criar páginas web complexas
