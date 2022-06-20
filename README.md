@@ -1,9 +1,9 @@
-### <h2 align="center" >Hey eu sou o Gabriel🤙<h2>🏽
+### <h2 align="center" >Hey eu sou o Gabriel🌎</h2>
 
 
-- 👩🏻‍💻 Estou aprendendo a criar páginas web complexas
-- 🧔🏻 Futuro Front End Hipster
-- 🧘🏻‍♂️ Disléxico e deboista
+<h6 align="center" >- 👩🏻‍💻 Estou aprendendo a criar páginas web complexas</h6>
+<h6 align="center" >- 🧔🏻 Futuro Front End Hipster</h6>
+<h6 align="center" >- 🧘🏻‍♂️ Disléxico e deboista</h6>
 
 <div style="display: inline_block"><br>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
