@@ -1,7 +1,7 @@
 ### <h1 align="center" >Hey eu sou o Gabriel🌎</h1>
 
 
-<h6 align="center" >- 👩🏻‍💻 Estou aprendendo a criar páginas web complexas</h6>
+<h6 align="center" >- 👩🏻‍💻 Aprendendo a criar páginas web complexas</h6>
 <h6 align="center" >- 🧔🏻 Futuro Front End Hipster</h6>
 <h6 align="center" >- 🧘🏻‍♂️ Disléxico e deboista</h6>
 
