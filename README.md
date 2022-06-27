@@ -24,7 +24,7 @@
 <h1 align="center"><img src="https://giffiles.alphacoders.com/297/2970.gif"></h1>
 
 ## 
-a
+
 <div>
  
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
