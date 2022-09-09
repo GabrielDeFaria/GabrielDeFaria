@@ -5,7 +5,7 @@
 <h6 align="center" >- 👀 Curioso por natureza</h6>
 <h6 align="center" >- 🧘🏻‍♂️ Deboista</h6>
 
-<h1 align="center"> My Skills ↓</h1>
+<h1 align="center"> Algumas Skills ↓</h1>
 <div style="display: inline_block"><br>
 <p align="center">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
