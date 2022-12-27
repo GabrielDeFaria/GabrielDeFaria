@@ -5,6 +5,8 @@
 <h6 align="center" >- 👀 Curioso por natureza</h6>
 <h6 align="center" >- 🧘🏻‍♂️ Deboista</h6>
 
+
+
 <h1 align="center"> Algumas Skills ↓</h1>
 <div style="display: inline_block"><br>
 <p align="center">
@@ -17,12 +19,11 @@
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/></p>
 </div>                         
 
-<h1 align="center"><img src="https://giffiles.alphacoders.com/297/2970.gif"></h1>
-
 ## 
 
 <div>
  
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+
+<h1 align="center"><img src="https://media.tenor.com/NQfq1liFH-8AAAAd/byuntear-sad.gif"   width="450" height="200"/></h1>
