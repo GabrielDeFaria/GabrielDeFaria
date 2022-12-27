@@ -26,4 +26,4 @@
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<h1 align="center"><img src="https://media.tenor.com/NQfq1liFH-8AAAAd/byuntear-sad.gif"   width="450" height="200"/></h1>
+<h1 align="center"><img src="https://media.tenor.com/bN2IkZ5vzxIAAAAd/byuntear-meme.gif" width="150"/></h1>
