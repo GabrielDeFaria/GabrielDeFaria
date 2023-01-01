@@ -1,29 +1,31 @@
-### <h1 align="center" >Hey eu sou o Gabriel🌎</h1>
-
-
-<h6 align="center" >- 👩🏻‍💻 Estudando mais e mais</h6>
-<h6 align="center" >- 👀 Curioso por natureza</h6>
-<h6 align="center" >- 🧘🏻‍♂️ Deboista</h6>
-
-
-
-<h1 align="center"> Algumas Skills ↓</h1>
-<div style="display: inline_block"><br>
-<p align="center">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/></p>
-</div>                         
-
-## 
-
+### <img align="right" height="590em" src="https://i.pinimg.com/564x/61/e5/ee/61e5eeb6de3e9aea64afa0acfe43895a.jpg"/> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F6F711&width=435&lines=Hey%2C+eu+sou+o+Gabriel)](https://git.io/typing-svg)
 <div>
- 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
 
-<h1 align="center"><img src="https://media.tenor.com/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif" width="500"/></h1>
+<h4>~Hey visitante!😀
+
+Eu sou um desenvolvedor que adora se renovar e aprender coisas novas, acredito que no mundo atual quem não se atualiza acaba ficando para trás.
+
+Um dos meus objetivos é ter um crescimento constante na carreira de tecnologia que me possibilite alcançar conhecimentos avançados, me tornando assim mais útil para todas as equipes que farei parte na minha longa jornada.
+
+Amante do cinema e literatura.🧐<h4/>
+<div/>
+<img src="https://media.tenor.com/Y7pF6lrz4DUAAAAj/taking-pictures-photography.gif">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀<br>⠀⠀⠀⠀⠀⠀⠀
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=35&pause=1000&color=F6F711&repeat=false&width=435&lines=Minhas+Skills%E2%86%93)](https://git.io/typing-svg)
+<div style="display: inline_block"><br>
+<p align="left">
+<img height="40" width="40" src="https://cdn.simpleicons.org/git/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/python/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/csharp/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/node.js/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/nike/FFFF00"/>
+</p>
+</div>                         
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=FFFF00&height=100&section=footer&text=Volte%20Sempre&animation=scaleIn&fontSize=60"/><div/>
