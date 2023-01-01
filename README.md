@@ -26,6 +26,18 @@ Amante do cinema e literatura.🧐<h4/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/csharp/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/node.js/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/nike/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/docker/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/postman/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/swagger/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/json/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/nodemon/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/sequelize/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/passport/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/heroku/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/sentry/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/jest/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/graphql/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/rabbitmq/FFFF00"/>
 </p>
 </div>                         
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=FFFF00&height=100&section=footer&text=Volte%20Sempre&animation=scaleIn&fontSize=60"/><div/>
