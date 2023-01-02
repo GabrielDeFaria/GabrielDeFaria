@@ -38,6 +38,7 @@ Amante do cinema e literatura.🧐<h4/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/jest/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/graphql/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/rabbitmq/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/nestjs/FFFF00"/>
 </p>
 </div>                         
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=FFFF00&height=100&section=footer&text=Volte%20Sempre&animation=scaleIn&fontSize=60"/><div/>
