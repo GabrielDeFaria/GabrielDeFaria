@@ -29,6 +29,7 @@ Amante do cinema e literatura.🧐<h4/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/python/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/csharp/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/php/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/node.js/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/spring/FFFF00"/>
 
