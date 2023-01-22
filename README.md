@@ -18,27 +18,20 @@ Amante do cinema e literatura.🧐<h4/>
 <div style="display: inline_block"><br>
 <p align="left">
 <img height="40" width="40" src="https://cdn.simpleicons.org/git/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/jest/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/cypress/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/json/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/docker/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/typescript/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/python/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/csharp/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/node.js/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/nike/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/docker/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/postman/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/swagger/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/json/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/nodemon/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/sequelize/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/passport/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/heroku/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/sentry/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/jest/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/graphql/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/rabbitmq/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/nestjs/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/spring/FFFF00"/>
+
 </p>
 </div>                         
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=FFFF00&height=100&section=footer&text=Volte%20Sempre&animation=scaleIn&fontSize=60"/><div/>
