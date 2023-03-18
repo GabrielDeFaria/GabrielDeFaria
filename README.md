@@ -35,4 +35,4 @@ Amante do cinema e literatura.🧐<h4/>
 
 </p>
 </div>                         
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=FFFF00&height=100&section=footer&text=Volte%20Sempre&animation=scaleIn&fontSize=60"/><div/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?
