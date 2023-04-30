@@ -22,16 +22,14 @@ Amante do cinema e literatura.🧐<h4/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/json/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/docker/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/FFFF00"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/python/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/csharp/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/php/FFFF00"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/node.js/FFFF00"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/spring/FFFF00"/>
 
 </p>
 </div>                         
