@@ -1,4 +1,5 @@
-### <img align="right" height="650em" src="https://i.pinimg.com/564x/42/a1/c3/42a1c3b4977b80412fe8342cc6105847.jpg"/> 
+<img align="right" height="650em" src="https://i.pinimg.com/564x/42/a1/c3/42a1c3b4977b80412fe8342cc6105847.jpg"/> 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+&weight=900&size=30&duration=2000&pause=&color=F7F7F7&center=true&vCenter=true&width=435&lines=Programador;Fullstack)](https://git.io/typing-svg)
 <div>
 
@@ -8,10 +9,11 @@
  atualmente foco em tecnologias que englobem tanto o lado do cliente quanto o do servidor.
  
 <div/>
-<img height="250em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIwOGI3N2IxMTU4YzFmM2NmNTZmZjg1MjRjN2E2ZTliYmU2MmYzNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/KcMpL8GebR6ygaSRwx/giphy.gif">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<img height="250em" src="https://media2.giphy.com/media/KVavw5OVSK7LmYyhVx/giphy.gif?cid=ecf05e47g5p54obqmhg63i5vqzzi90n5f7lcfab0fchf0asn&ep=v1_stickers_search&rid=giphy.gif&ct=s">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀<br>⠀⠀⠀⠀⠀⠀⠀
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+&weight=900&size=30&duration=4000&pause=&color=F7F7F7&repeat=false&width=435&lines=Algumas+Skills+%E2%86%93)](https://git.io/typing-svg)<p align="left">
+## Algumas Skills ↓
+
 <img height="40" width="40" src="https://cdn.simpleicons.org/git/fff"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/fff"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/json/fff"/>
