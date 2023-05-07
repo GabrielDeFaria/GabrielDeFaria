@@ -9,7 +9,8 @@
  atualmente foco em tecnologias que englobem tanto o lado do cliente quanto o do servidor.
  
 <div/>
-<img height="250em" src="https://media2.giphy.com/media/KVavw5OVSK7LmYyhVx/giphy.gif?cid=ecf05e47g5p54obqmhg63i5vqzzi90n5f7lcfab0fchf0asn&ep=v1_stickers_search&rid=giphy.gif&ct=s">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDeFaria&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)⠀⠀⠀⠀
 ⠀<br>⠀⠀⠀⠀⠀⠀⠀
  
 ## Algumas Skills ↓
