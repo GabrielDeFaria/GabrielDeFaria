@@ -3,9 +3,9 @@
 <div>
 
 ### Eae visitante!
- Me chamo Gabriel e gosto muito de aprender coisas novas e me aventurar em tecnologias diferentes, <br>
- aqui no meu perfil do github você vai encontrar alguns projetos pessoais e estudos que realizei, <br>
- atualmente foco em tecnologias que englobem tanto o lado do cliente quanto o do servidor.<br>
+ Me chamo Gabriel e gosto muito de aprender coisas novas e me aventurar em tecnologias diferentes,
+ aqui no meu perfil do github você vai encontrar alguns projetos pessoais e estudos que realizei, 
+ atualmente foco em tecnologias que englobem tanto o lado do cliente quanto o do servidor.
  
 <div/>
 <img height="250em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIwOGI3N2IxMTU4YzFmM2NmNTZmZjg1MjRjN2E2ZTliYmU2MmYzNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/KcMpL8GebR6ygaSRwx/giphy.gif">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
