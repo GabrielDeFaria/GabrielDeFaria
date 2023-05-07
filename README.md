@@ -1,4 +1,4 @@
-### <img align="right" height="590em" src="https://i.pinimg.com/564x/42/a1/c3/42a1c3b4977b80412fe8342cc6105847.jpg"/> 
+### <img align="right" height="650em" src="https://i.pinimg.com/564x/42/a1/c3/42a1c3b4977b80412fe8342cc6105847.jpg"/> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+&weight=900&size=30&duration=2000&pause=&color=F7F7F7&center=true&vCenter=true&width=435&lines=Programador;Fullstack)](https://git.io/typing-svg)
 <div>
 
