@@ -14,18 +14,20 @@
  
 ## Algumas Skills ↓
 
-<img height="40" width="40" src="https://cdn.simpleicons.org/git/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/cypress/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/json/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/docker/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/typescript/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/html5/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/css3/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/javascript/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/python/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/figma/fff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/node.js/fff"/>
+<img src="https://img.shields.io/badge/HTML-fff?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/GIT-fff?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notion-fff?style=for-the-badge&logo=notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-fff?style=for-the-badge&logo=figma&logoColor=black"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-fff?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=mongodb&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jest-fff?style=for-the-badge&logo=Jest&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=node.js&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express.js-fff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=black"/>
 
                       
 
