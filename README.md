@@ -12,11 +12,10 @@
 
 [![GabrielDeFaria GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDeFaria&show_icons=true&theme=swift&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  
-## Algumas Skills ↓
+## Tecnical Skills ↓
 
 <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=black"/>
- <img src="https://img.shields.io/badge/Next.jS-fff?style=for-the-badge&logo=Next.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=node.js&logoColor=black"/>
@@ -28,7 +27,6 @@
 <img src="https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=black"/>
 <img src="https://img.shields.io/badge/Notion-fff?style=for-the-badge&logo=notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/Figma-fff?style=for-the-badge&logo=figma&logoColor=black"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-fff?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 
                       
 
