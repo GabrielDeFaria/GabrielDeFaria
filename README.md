@@ -12,7 +12,7 @@
 
 [![GabrielDeFaria GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDeFaria&show_icons=true&theme=swift&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  
-## Tecnical Skills ↓
+## Technical Skills ↓
 
 <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=black"/>
