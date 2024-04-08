@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+&weight=900&size=30&duration=2000&pause=&color=F7F7F7&center=true&vCenter=true&width=435&lines=Programador;Fullstack)](https://git.io/typing-svg)
 <div>
 
-### Eae visitante!
+### Hey visitante!
  Me chamo Gabriel e gosto muito de aprender coisas novas e me aventurar em tecnologias diferentes,
  aqui no meu perfil do github você vai encontrar alguns projetos pessoais e estudos que realizei, 
  atualmente foco em tecnologias que englobem tanto o lado do cliente quanto o do servidor.
@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=node.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/Express.js-fff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/asterisk-fff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=mongodb&logoColor=black"/>
  <img src="https://img.shields.io/badge/MySQL-fff?style=for-the-badge&logo=mysql&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jest-fff?style=for-the-badge&logo=Jest&logoColor=black"/>
